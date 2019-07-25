@@ -1,6 +1,5 @@
 # Problem Statements
-
-A demo and doc repository for Serverless Go at GopherCon 2019.
+Self learning of different data structures and practice topic-wise problems.
 
 ## Get Started
 
